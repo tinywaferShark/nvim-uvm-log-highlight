@@ -1,5 +1,5 @@
 -- main module file
-local module = require("plugin_name.module")
+local module = require("nvim_uvm_log_highlight.module")
 
 local M = {}
 M.config = {

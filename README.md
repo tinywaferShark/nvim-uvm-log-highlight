@@ -31,15 +31,15 @@ Click on `Use this template`
 ```
 .
 ├── lua
-│   ├── plugin_name
+│   ├── nvim_uvm_log_highlight
 │   │   └── module.lua
-│   └── plugin_name.lua
+│   └── nvim_uvm_log_highlight.lua
 ├── Makefile
 ├── plugin
-│   └── plugin_name.lua
+│   └── nvim_uvm_log_highlight.lua
 ├── README.md
 ├── tests
 │   ├── minimal_init.lua
-│   └── plugin_name
-│       └── plugin_name_spec.lua
+│   └── nvim_uvm_log_highlight
+│       └── nvim_uvm_log_highlight_spec.lua
 ```

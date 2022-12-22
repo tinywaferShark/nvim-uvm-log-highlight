@@ -1,4 +1,4 @@
-local plugin = require("plugin_name")
+local plugin = require("nvim_uvm_log_highlight")
 
 describe("setup", function()
   it("works with default", function()
